@@ -1,0 +1,16 @@
+{
+  "name": "ngx-var",
+  "version": "12.0.0",
+  "description": "Simple package to use async pipes without waiting for observable emitting. It could be also used for alliasing variables in templates.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KamilKoso/ngx-var"
+  },
+  "peerDependencies": {
+    "@angular/common": "^12.0.5",
+    "@angular/core": "^12.0.5"
+  },
+  "dependencies": {
+    "tslib": "^2.1.0"
+  }
+}
